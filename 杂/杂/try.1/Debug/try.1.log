@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\allcode\c\杂\杂\try.1\源.cpp(7,8): error C2131: 表达式的计算结果不是常数
+E:\allcode\c\杂\杂\try.1\源.cpp(7,8): message : 因读取超过生命周期的变量而失败
+E:\allcode\c\杂\杂\try.1\源.cpp(7,8): message : 请参见“len”的用法
