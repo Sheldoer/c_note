@@ -1,0 +1,2 @@
+E:\allcode\c\simulation\20.4\Debug\20.4.exe
+E:\allcode\c\simulation\20.4\Debug\20.4.pdb

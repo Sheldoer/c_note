@@ -1,0 +1,2 @@
+E:\allcode\c\simulation\1.5\Debug\1.5.exe
+E:\allcode\c\simulation\1.5\Debug\1.5.pdb

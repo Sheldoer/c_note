@@ -1,0 +1,8 @@
+﻿  Find_middle.c
+E:\allcode\c\LeetCode\4\Find_middle.c(45,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\allcode\c\LeetCode\4\Find_middle.c(45,9): message : 请考虑在格式字符串中使用“%zd”
+E:\allcode\c\LeetCode\4\Find_middle.c(45,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+E:\allcode\c\LeetCode\4\Find_middle.c(45,9): message : 请考虑在格式字符串中使用“%zd”
+E:\allcode\c\LeetCode\4\Find_middle.c(47,9): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+E:\allcode\c\LeetCode\4\Find_middle.c(46,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  4.vcxproj -> E:\allcode\c\LeetCode\4\x64\Debug\4.exe
